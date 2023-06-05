@@ -1,0 +1,17 @@
+#boton {
+  background-color: #ccc;
+  color: #fff;
+  width: 100px;
+  padding: 10px;
+  border: 1px solid #000000;
+  border-radius: 10px;
+}
+
+#boton2 {
+  background-color: #bbbaaa;
+  color: #fff;
+  width: 100px;
+  padding: 10px;
+  border: 1px solid #000000;
+  border-radius: 10px;
+}
